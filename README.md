@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Dylan"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -58,12 +58,12 @@ floatingEmojis: {
 questions: {
     first: {
         text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
+        yesBtn: "Yasss",                             // Yes button text
+        noBtn: "Naur",                               // No button text
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
+        text: "How much do you like me?",          // Second question
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
@@ -76,14 +76,14 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    extreme: "WOOOOW You like me that much?? 🥰🚀💝",  // Shows above 5000%
     high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
     normal: "And beyond! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
+    title: "Yay! I'm the happiest person in the universe...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
@@ -94,7 +94,7 @@ colors: {
     backgroundEnd: "#ffc3a0",        // Background gradient end
     buttonBackground: "#ff6b6b",     // Button color
     buttonHover: "#ff8787",          // Button hover color
-    textColor: "#ff4757"            // Text color
+    textColor: "#ff5ccd"            // Text color
 }
 
 // Animation Settings
